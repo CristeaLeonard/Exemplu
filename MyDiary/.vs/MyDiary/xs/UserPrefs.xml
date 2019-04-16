@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{E652B327-E571-4719-BC6E-AAE9865EF2DC}|Default">
+  <MonoDevelop.Ide.ItemProperties.MyDiary.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.e9d24afb2fbcc14a54929df3dd8f47d6e40294ad" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyDiary/MyDiary/App.xaml">
+    <Files>
+      <File FileName="MyDiary/MyDiary/Services/IDataStore.cs" Line="16" Column="25" />
+      <File FileName="MyDiary/MyDiary/ViewModels/BaseViewModel.cs" Line="24" Column="19" />
+      <File FileName="MyDiary/MyDiary/Services/MockDataStore.cs" Line="1" Column="1" />
+      <File FileName="MyDiary/MyDiary/ViewModels/AboutViewModel.cs" Line="13" Column="56" />
+      <File FileName="MyDiary/MyDiary/Properties/AssemblyInfo.cs" Line="14" Column="48" />
+      <File FileName="MyDiary/MyDiary/App.xaml" Line="7" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MyDiary.Android PreferredExecutionTarget="Android.Android_Accelerated_Pie" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
